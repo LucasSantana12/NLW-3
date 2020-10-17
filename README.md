@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/logo.svg" width="100%">
+  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/logo.svg" width="50%">
 </p>
 
 <h1 align="center">
